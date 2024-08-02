@@ -1342,6 +1342,11 @@ a {
 }
 .cid-ukdbSxnXoj {
   display: flex;
+  background-image: url("../../../assets/images/asdasdegwgwgw-673x308.png");
+}
+.cid-ukdbSxnXoj .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-ukdbSxnXoj {
@@ -1383,7 +1388,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background1.jpg");
 }
 .cid-ukdbSxnXoj .mbr-section-title,
 .cid-ukdbSxnXoj .mbr-section-subtitle {
